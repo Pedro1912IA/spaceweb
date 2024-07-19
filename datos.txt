@@ -1,0 +1,3 @@
+Alumno: Pedro Aráoz
+Comisión: B
+Carrera: Analista en sistemas

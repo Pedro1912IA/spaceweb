@@ -1,22 +1,31 @@
-
-  
-
 body {
-    background-color: #333333;
     color: #ffffff;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-    padding-bottom: 60px
+    padding-bottom: 60px;
+    background: linear-gradient(to bottom, #000428, #1f1793); 
       
   }
 
+  .logo {
+    width: 50px; 
+    height: auto;
+    /* margin-left: -40px; */
+    
+}
+/* .logotexto{
+    margin-left: -280px;
+} */
+
  .footer {
-    background-color: #666666;
+    background-color: #e8eef1;
+    color: #000000;
     text-align: center;
     padding: 10px 0;
   }
 
+  
 table {
     width: 50%;
     border-collapse: collapse;
@@ -31,7 +40,7 @@ th, td {
 }
 
 .navbarcolor{
-background-color: #cccccc;
+background-color: #e8eef1;
 margin-bottom: 20px;
 }
 
@@ -88,5 +97,7 @@ margin-bottom: 20px;
 }
 
 #datoscon{
-    background-color: #000000;
+    background-color: #000000;
 }
+  
+
